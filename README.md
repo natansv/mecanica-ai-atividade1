@@ -1,2 +1,1 @@
-mecanica-ai-atividade1/
-└── README.md
+Minha primeira tafera
